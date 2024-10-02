@@ -1,0 +1,9 @@
+[33mcommit 69edbaa0ee9aa0a7c789892663c403fc3858a714[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Abc Bolinhas <abc@bolinhas.com>
+Date:   Wed Oct 2 19:03:36 2024 -0300
+
+    Meu primeiro Commit
+
+[1mdiff --git a/abcBolinhas.html b/abcBolinhas.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
